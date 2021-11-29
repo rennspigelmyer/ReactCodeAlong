@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rennspigelmyer/ReactCodeAlong/static/css/main.b0d295dc.chunk.css",
+    "main.js": "/rennspigelmyer/ReactCodeAlong/static/js/main.7d16bff6.chunk.js",
+    "main.js.map": "/rennspigelmyer/ReactCodeAlong/static/js/main.7d16bff6.chunk.js.map",
+    "runtime-main.js": "/rennspigelmyer/ReactCodeAlong/static/js/runtime-main.baa8d7ec.js",
+    "runtime-main.js.map": "/rennspigelmyer/ReactCodeAlong/static/js/runtime-main.baa8d7ec.js.map",
+    "static/js/2.0ac3089b.chunk.js": "/rennspigelmyer/ReactCodeAlong/static/js/2.0ac3089b.chunk.js",
+    "static/js/2.0ac3089b.chunk.js.map": "/rennspigelmyer/ReactCodeAlong/static/js/2.0ac3089b.chunk.js.map",
+    "index.html": "/rennspigelmyer/ReactCodeAlong/index.html",
+    "static/css/main.b0d295dc.chunk.css.map": "/rennspigelmyer/ReactCodeAlong/static/css/main.b0d295dc.chunk.css.map",
+    "static/js/2.0ac3089b.chunk.js.LICENSE.txt": "/rennspigelmyer/ReactCodeAlong/static/js/2.0ac3089b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa8d7ec.js",
+    "static/js/2.0ac3089b.chunk.js",
+    "static/css/main.b0d295dc.chunk.css",
+    "static/js/main.7d16bff6.chunk.js"
+  ]
+}
